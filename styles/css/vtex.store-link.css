@@ -1,0 +1,11 @@
+.label{  color: wheat;
+    background-color: blue;
+    border-radius: 2rem;
+    padding: 5%;
+}
+
+.vtex-store-components-3-x-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

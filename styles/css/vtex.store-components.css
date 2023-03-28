@@ -1,0 +1,5 @@
+.stretchChildrenWidth{
+    font-weight: 300;
+    display: block;
+    flex-wrap: wrap;
+}

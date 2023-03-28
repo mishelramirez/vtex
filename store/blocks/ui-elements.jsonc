@@ -1,0 +1,68 @@
+{
+    "link#ButtonPrimary": {
+      "props": {
+        "href": "#",
+        "label": "agregar a carrito",
+        "target": "_self",
+        "displeyModel": "button",
+        "buttonProps": {
+          "variant": "primary"
+        },
+        "blockClass": "ShippingSimulator"
+      }
+    },
+    "link#ButtonSecondary": {
+      "props": {
+        "href": "#",
+        "label": "agregar a carrito",
+        "target": "_self",
+        "displeyModel": "button",
+        "buttonProps": {
+          "variant": "Secondary"
+        },
+        "blockClass": "ShippingSimulator"
+      }
+    },
+    "link#ButtonTertiary": {
+      "props": {
+        "href": "#",
+        "label": "agregar a carrito",
+        "target": "_self",
+        "displeyModel": "button",
+        "buttonProps": {
+          "variant": "Tertiary"
+        },
+        "blockClass": "ShippingSimulator"
+      }
+    },
+    "info-card#Left":{
+      "props":{
+        "id":"info-card-example",
+        "isFullModeStyle":false,
+        "textPosition":"left",
+        "imageUrl":"https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+        "headline":"clearance Sale",
+        "callToActionText":"DISCOVER",
+        "callToActionTUrl":"/sale/d",
+        "textAlignment":"center",
+        "blockClass":"left"
+      }
+        },
+  
+  
+        "info-card#Right":{
+          "props":{
+            "id":"info-card-example",
+            "isFullModeStyle":false,
+            "textPosition":"right",
+            "imageUrl":"https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+            "headline":"clearance Sale",
+            "callToActionText":"DISCOVER",
+            "callToActionTUrl":"/sale/d",
+            "textAlignment":"center",
+            "blockClass":"Unde"
+          }
+            }
+
+   
+  }

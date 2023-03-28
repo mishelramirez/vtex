@@ -1,0 +1,12 @@
+.paragraph{
+    font-style: italic;
+    
+}
+/*el :global (.classe o elemento vtex)  es para modificar todos a nivel gloval que contenga esa clase y si solo lo queremos en una parte se especifica con el nombre del bloque antes del global 
+ejm .infocardcallAction :global(.vtex-button){ bacground-color: black;}*/
+
+
+
+
+
+
